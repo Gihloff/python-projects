@@ -1,0 +1,6 @@
+# test file for testing program functionality while coding
+test.py
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
